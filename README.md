@@ -1,6 +1,6 @@
 # moda
 
-A new Flutter project.
+A new Flutter project small e-commerce app.
 
 ## Getting Started
 
